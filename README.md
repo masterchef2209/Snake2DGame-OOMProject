@@ -1,3 +1,3 @@
 # Snake2DGame-OOMProject
-Made using Java and Swing
+Made using Java and Swing.
 IDE used:Eclipse
